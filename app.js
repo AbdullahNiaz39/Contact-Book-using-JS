@@ -88,6 +88,7 @@ class Address{
     }
 }
 
+console.log('New change');
 // UI class
 class UI{
     static showAddressList(){
